@@ -1,14 +1,5 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying I.T. at the Dr.S.&S.S.Ghandhy College Of Engineering & Technology.\
-🌱 &nbsp;I'm on track for learning exciting things.\
-💬 &nbsp;Feel free to reach out to me for interesting discussion, we can discuss about why attaching wheels to the laptop is not good idea.\
-✉️ &nbsp;You can shoot me an email at goyaniabhi28@gmail.com! I'll try to respond as soon as I can.\
-
-### 🛠 &nbsp;Tech I use
 
 <img alt="Night Coding" src="assets/octa.gif" align="right" width="200" height="200"/>
 
