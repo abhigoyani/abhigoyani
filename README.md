@@ -10,9 +10,10 @@ ___
 💬 &nbsp;Feel free to reach out to me for interesting discussion, we can discuss about why attaching wheels to the laptop is not good idea.\
 ✉️ &nbsp;You can shoot me an email at goyaniabhi28@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="assets/code.png" align="right" width="50%" height="245px"/>
-
 ### 🛠 &nbsp;Tech I use
+
+<img alt="Night Coding" src="assets/octa.gif" align="right" width="200" height="200"/>
+
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
