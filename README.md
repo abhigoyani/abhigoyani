@@ -91,9 +91,7 @@ ___
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhigoyani&show_icons=true&count_private=true"/>
-</p>
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhigoyani&show_icons=true&count_private=true&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed"/>
 </p>
