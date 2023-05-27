@@ -1,5 +1,3 @@
-![](assets/sqrl.jpg)
-___
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -41,10 +39,6 @@ ___
     </a>
     <a href="https://reactjs.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="react" width="50" height="50"/></code> 
-    </a> 
-        <a href="https://nodejs.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50"/></code> 
-    </a> 
     <a href="https://getbootstrap.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
     </a>   
@@ -95,7 +89,3 @@ ___
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhigoyani&show_icons=true&count_private=true&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed"/>
 </p>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=abhigoyani&show_icons=true&count_private=true&area=true&bg_color=FFF&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=false"/>
-</p>
-
