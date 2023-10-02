@@ -37,19 +37,8 @@
     <a href="https://flutter.dev/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/></code> 
     </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="react" width="50" height="50"/></code> 
-    <a href="https://getbootstrap.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
-    </a>   
     <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://atom.io/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/atom/atom-original.svg" alt="atom" width="50" height="50"/></code> 
-    </a>
-    <a href="https://www.vim.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/vim/vim-original.svg" alt="vim" width="50" height="50"/></code> 
     </a> 
     <a href="https://www.heroku.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
@@ -65,9 +54,6 @@
     </a> 
     <a href="https://www.mysql.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.nginx.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/></code> 
     </a> 
     <a href="https://postman.com" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
